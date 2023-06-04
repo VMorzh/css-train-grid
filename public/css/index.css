@@ -1,7 +1,10 @@
 .task1 {
+  display: grid;
 }
 
 .task2 {
+  display: grid;
+  justify-content: start;
 }
 
 .task3 {
